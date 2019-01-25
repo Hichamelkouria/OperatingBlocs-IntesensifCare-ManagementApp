@@ -5,7 +5,7 @@
 
 ### Screenshot
 
-![ProjetTXTO dashboard preview](images/Blocs_Indexe.png)
+![ProjetTXTO dashboard preview](images/screeShot.png)
 
 
 ### TOC
