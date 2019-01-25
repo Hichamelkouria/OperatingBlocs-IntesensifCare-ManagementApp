@@ -5,7 +5,7 @@
 
 ### Screenshot
 
-![ProjetTXTO dashboard preview](https://drive.google.com/open?id=1wOW0vZx9jCzRr3AG5eLw9gXDA5kTp20u)
+![ProjetTXTO dashboard preview](https://photos.app.goo.gl/Nq67apUUgDpmFoti8)
 
 
 ### TOC
