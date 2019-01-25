@@ -5,9 +5,8 @@
 
 ### Screenshot
 
-![ElaAdmin admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/elaadmin-bootstrap-admin-dashboard.jpg)
+![ProjetTXTO dashboard preview](https://drive.google.com/open?id=1wOW0vZx9jCzRr3AG5eLw9gXDA5kTp20u)
 
-### Demo Site: [Here](https://colorlib.com/polygon/elaadmin/index.html)
 
 ### TOC
 - [Built With](#built-with)
@@ -74,15 +73,9 @@
 #### V 1.0.0
 Initial Release
 ### Authors
-[Colorlib](https://colorlib.com)
+[HICEL]
 
-### More info
-- [Bootstrap admin dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Angular dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [Website Templates](https://colorlib.com/wp/templates/)
-- [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
 
 ### License
 
-ElaAdmin is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+ProjetTXTO is licensed under The UTBM License (UTBM). Which means that you can't use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you can ask the original author in case of interest.
