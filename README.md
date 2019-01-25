@@ -5,7 +5,7 @@
 
 ### Screenshot
 
-![ProjetTXTO dashboard preview](images/screeShot.png)
+![ProjetTXTO dashboard preview](images/ScreeShot.png)
 
 
 ### TOC
